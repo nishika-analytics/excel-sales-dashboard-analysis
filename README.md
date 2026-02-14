@@ -37,7 +37,7 @@ The dashboard enables management to monitor performance, track target achievemen
 ---
 
 ## 📈 Key Insights
-- Mumbai region generated highest total sales.
+- Nagpur region generated highest total sales.
 - Some executives achieved more than 75% of target.
 - Certain regions show higher "Away From Target %" indicating improvement opportunity.
 - Performance varies significantly across cities.
